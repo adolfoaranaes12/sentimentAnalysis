@@ -1,0 +1,3 @@
+transformers==4.34.0          # Hugging Face Transformers for sentiment analysis
+torch==2.0.1                  # PyTorch backend required by Transformers
+spacy==3.7.0                  # NLP preprocessing library
